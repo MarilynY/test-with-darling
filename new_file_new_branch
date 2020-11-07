@@ -2,6 +2,9 @@ This is a new file created in the new branch!
 
 test git merge VS git fetch
 edit on remote
+<<<<<<< HEAD
 
 edit on remote again
 
+=======
+>>>>>>> f2985ae... test git merge remote -1
