@@ -2,9 +2,22 @@ This is a new file created in the new branch!
 
 test git merge VS git fetch
 edit on remote
-<<<<<<< HEAD
 
-edit on remote again
+1. local commit 1
+2. local commit 2
+3. local commit 3
 
-=======
->>>>>>> f2985ae... test git merge remote -1
+4. local commit 4
+5. local commit 5
+6. local commit 6
+
+
+test gitr rest
+
+1. checkout 1
+2. checkout 2
+3. checkout 3
+4. checkout 4
+
+insert new content
+insert new content
